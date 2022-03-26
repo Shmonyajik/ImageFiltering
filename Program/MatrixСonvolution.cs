@@ -88,7 +88,7 @@ namespace ImageFiltering
         public static UInt32 buildChanals(RGB ColorOfPixel)
         {
             UInt32 Color;
-            Color = 0xFF000000 | ((UInt32)ColorOfPixel.B) | ((UInt32)ColorOfPixel.R << 16) | ((UInt32)ColorOfPixel.G << 8)  ;
+            Color = 0xFF000000 | ((UInt32)ColorOfPixel.B) | ((UInt32)ColorOfPixel.R << 16) | ((UInt32)ColorOfPixel.G << 8);
             return Color;
         }
         //вычисление нового цвета
