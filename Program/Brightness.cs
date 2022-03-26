@@ -26,7 +26,7 @@ namespace ImageFiltering
             if (B < 0) B = 0;
             
 
-            dot = 0xFF000000| ((UInt32)B) | ((UInt32)R << 16) | ((UInt32)G << 8) ;
+            dot = 0xFF000000| ((UInt32)B) | ((UInt32)R << 16) | ((UInt32)G << 8);
 
             return dot;
         }
