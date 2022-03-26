@@ -1,0 +1,66 @@
+c:\users\user\documents\visual studio 2012\Projects\Program\Program\bin\Debug\Program.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Program\Program\bin\Debug\Program.exe
+c:\users\user\documents\visual studio 2012\Projects\Program\Program\bin\Debug\Program.pdb
+c:\users\user\documents\visual studio 2012\Projects\Program\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\Program\Program\obj\Debug\Program.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\Program\Program\obj\Debug\Program.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\Program\Program\obj\Debug\Program.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\Program\Program\obj\Debug\Program.exe
+c:\users\user\documents\visual studio 2012\Projects\Program\Program\obj\Debug\Program.pdb
+C:\Users\User\documents\visual studio 2012\Projects\Program\Program\obj\Debug\Program.Form2.resources
+C:\Users\Игорь\Desktop\Program\Program\bin\Debug\Program.exe.config
+C:\Users\Игорь\Desktop\Program\Program\obj\Debug\Program.exe
+C:\Users\Игорь\Desktop\Program\Program\obj\Debug\Program.pdb
+C:\Users\Игорь\Desktop\Program\Program\bin\Debug\Program.exe
+C:\Users\Игорь\Desktop\Program\Program\bin\Debug\Program.pdb
+C:\Users\Игорь\Desktop\Program\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Desktop\Program\Program\obj\Debug\Program.Form1.resources
+C:\Users\Игорь\Desktop\Program\Program\obj\Debug\Program.Form2.resources
+C:\Users\Игорь\Desktop\Program\Program\obj\Debug\Program.Properties.Resources.resources
+C:\Users\Игорь\Desktop\Program\Program\obj\Debug\Program.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2012\Projects\Program\Program\obj\Debug\Program.Form3.resources
+C:\Users\stud\Desktop\imagefilteringCODE\Program\Program\bin\Debug\Program.exe.config
+C:\Users\stud\Desktop\imagefilteringCODE\Program\Program\obj\Debug\Program.exe
+C:\Users\stud\Desktop\imagefilteringCODE\Program\Program\obj\Debug\Program.pdb
+C:\Users\stud\Desktop\imagefilteringCODE\Program\Program\bin\Debug\Program.exe
+C:\Users\stud\Desktop\imagefilteringCODE\Program\Program\bin\Debug\Program.pdb
+C:\Users\stud\Desktop\imagefilteringCODE\Program\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+C:\Users\stud\Desktop\imagefilteringCODE\Program\Program\obj\Debug\Program.Form1.resources
+C:\Users\stud\Desktop\imagefilteringCODE\Program\Program\obj\Debug\Program.Form2.resources
+C:\Users\stud\Desktop\imagefilteringCODE\Program\Program\obj\Debug\Program.Form3.resources
+C:\Users\stud\Desktop\imagefilteringCODE\Program\Program\obj\Debug\Program.Properties.Resources.resources
+C:\Users\stud\Desktop\imagefilteringCODE\Program\Program\obj\Debug\Program.csproj.GenerateResource.Cache
+E:\C#\Имидж Раухваргера\Program\Program\bin\Debug\Program.exe.config
+E:\C#\Имидж Раухваргера\Program\Program\obj\Debug\Program.exe
+E:\C#\Имидж Раухваргера\Program\Program\obj\Debug\Program.pdb
+E:\C#\Имидж Раухваргера\Program\Program\bin\Debug\Program.exe
+E:\C#\Имидж Раухваргера\Program\Program\bin\Debug\Program.pdb
+E:\C#\Имидж Раухваргера\Program\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+E:\C#\Имидж Раухваргера\Program\Program\obj\Debug\Program.Form1.resources
+E:\C#\Имидж Раухваргера\Program\Program\obj\Debug\Program.Form2.resources
+E:\C#\Имидж Раухваргера\Program\Program\obj\Debug\Program.Form3.resources
+E:\C#\Имидж Раухваргера\Program\Program\obj\Debug\Program.Properties.Resources.resources
+E:\C#\Имидж Раухваргера\Program\Program\obj\Debug\Program.csproj.GenerateResource.Cache
+C:\Users\RuGol\Desktop\Новая папка (2)\Новая папка\Program\Program\bin\Debug\Program.exe.config
+C:\Users\RuGol\Desktop\Новая папка (2)\Новая папка\Program\Program\bin\Debug\Program.exe
+C:\Users\RuGol\Desktop\Новая папка (2)\Новая папка\Program\Program\bin\Debug\Program.pdb
+C:\Users\RuGol\Desktop\Новая папка (2)\Новая папка\Program\Program\obj\Debug\Program.csprojAssemblyReference.cache
+C:\Users\RuGol\Desktop\Новая папка (2)\Новая папка\Program\Program\obj\Debug\Program.Form1.resources
+C:\Users\RuGol\Desktop\Новая папка (2)\Новая папка\Program\Program\obj\Debug\Program.Form2.resources
+C:\Users\RuGol\Desktop\Новая папка (2)\Новая папка\Program\Program\obj\Debug\Program.Form3.resources
+C:\Users\RuGol\Desktop\Новая папка (2)\Новая папка\Program\Program\obj\Debug\Program.Properties.Resources.resources
+C:\Users\RuGol\Desktop\Новая папка (2)\Новая папка\Program\Program\obj\Debug\Program.csproj.GenerateResource.cache
+C:\Users\RuGol\Desktop\Новая папка (2)\Новая папка\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\RuGol\Desktop\Новая папка (2)\Новая папка\Program\Program\obj\Debug\Program.exe
+C:\Users\RuGol\Desktop\Новая папка (2)\Новая папка\Program\Program\obj\Debug\Program.pdb
+C:\Users\RuGol\Desktop\Новая папка (2)\курсач\Program\Program\bin\Debug\Program.exe.config
+C:\Users\RuGol\Desktop\Новая папка (2)\курсач\Program\Program\bin\Debug\Program.exe
+C:\Users\RuGol\Desktop\Новая папка (2)\курсач\Program\Program\bin\Debug\Program.pdb
+C:\Users\RuGol\Desktop\Новая папка (2)\курсач\Program\Program\obj\Debug\Program.csprojAssemblyReference.cache
+C:\Users\RuGol\Desktop\Новая папка (2)\курсач\Program\Program\obj\Debug\Program.Properties.Resources.resources
+C:\Users\RuGol\Desktop\Новая папка (2)\курсач\Program\Program\obj\Debug\Program.csproj.GenerateResource.cache
+C:\Users\RuGol\Desktop\Новая папка (2)\курсач\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\RuGol\Desktop\Новая папка (2)\курсач\Program\Program\obj\Debug\Program.exe
+C:\Users\RuGol\Desktop\Новая папка (2)\курсач\Program\Program\obj\Debug\Program.pdb
+C:\Users\RuGol\Desktop\Новая папка (2)\курсач\Program\Program\obj\Debug\Program.MainForm.resources
+C:\Users\RuGol\Desktop\Новая папка (2)\курсач\Program\Program\obj\Debug\Program.BrightnessForm.resources

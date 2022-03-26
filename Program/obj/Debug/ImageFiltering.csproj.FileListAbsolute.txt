@@ -1,0 +1,11 @@
+C:\Users\shmon\Desktop\Курсачи\2019\Program\Program\obj\Debug\ImageFiltering.csprojAssemblyReference.cache
+C:\Users\shmon\Desktop\Курсачи\2019\Program\Program\obj\Debug\ImageFiltering.MainForm.resources
+C:\Users\shmon\Desktop\Курсачи\2019\Program\Program\obj\Debug\ImageFiltering.Properties.Resources.resources
+C:\Users\shmon\Desktop\Курсачи\2019\Program\Program\obj\Debug\ImageFiltering.csproj.GenerateResource.cache
+C:\Users\shmon\Desktop\Курсачи\2019\Program\Program\obj\Debug\ImageFiltering.csproj.CoreCompileInputs.cache
+C:\Users\shmon\Desktop\Курсачи\2019\Program\Program\bin\Debug\ImageFiltering.exe.config
+C:\Users\shmon\Desktop\Курсачи\2019\Program\Program\bin\Debug\ImageFiltering.exe
+C:\Users\shmon\Desktop\Курсачи\2019\Program\Program\bin\Debug\ImageFiltering.pdb
+C:\Users\shmon\Desktop\Курсачи\2019\Program\Program\obj\Debug\ImageFiltering.BrightnessForm.resources
+C:\Users\shmon\Desktop\Курсачи\2019\Program\Program\obj\Debug\ImageFiltering.exe
+C:\Users\shmon\Desktop\Курсачи\2019\Program\Program\obj\Debug\ImageFiltering.pdb
